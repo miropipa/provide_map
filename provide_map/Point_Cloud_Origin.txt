@@ -1,0 +1,4 @@
+Origin of Point Cloud is:
+Lat: 1.298950 Lon: 103.772787
+UTM East: 363466.28 UTM North: 143606.40 
+UTM Zone: 48N
